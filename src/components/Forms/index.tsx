@@ -28,7 +28,9 @@ class Forms extends React.Component {
           />
         </div>
         <div>
-          <Button />
+          <Button>
+            Adicionar
+          </Button>
         </div>
       </form>
     );
